@@ -27,7 +27,7 @@ OpenMEOW is a modular desktop toolset inspired by PowerToys, infused with cat en
 - FedotovDev — another head developer
 
 ## GitHub
-- FedotovDev: https://github.com/FedotovDev
+- FedotovDev: https://github.com/FedotovDev8801
 - Meowefixe: https://github.com/meowefixe
 
 ## License
