@@ -1,0 +1,29 @@
+{
+  "name": "openmeow",
+  "version": "1.0.0",
+  "description": "Open-source PowerToys-like utility with cat energy.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "Meowefixe",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.3.3"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.fedotovdev.openmeow",
+    "productName": "OpenMEOW",
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    }
+  }
+}

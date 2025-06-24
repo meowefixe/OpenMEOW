@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\OpenMEOW]
+@="Open with OpenMEOW"
+"Icon"="C:\Program Files\Meowefixe\OpenMEOW\openmeow.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\OpenMEOW\command]
+@="\"C:\Program Files\Meowefixe\OpenMEOW\openmeow.exe" \"%1\""
