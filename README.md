@@ -10,7 +10,7 @@ OpenMEOW is a modular desktop toolset inspired by PowerToys, infused with cat en
 
 ## Installation
 1. Install Node.js and npm.
-2. Clone the repository: git clone https://github.com/FedotovDev/openmeow
+2. Clone the repository: git clone https://github.com/meowefixe/openmeow
 3. Navigate to the folder: cd openmeow
 4. Install dependencies: npm install
 5. Launch the app: npm start
